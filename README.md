@@ -2,7 +2,7 @@
 
 ![學習歷程自述 AI 教練簡介圖](簡介圖.png)
 
-這是一份可放入 Antigravity、Codex、Claude Code、OpenCode 或其他 Agentic AI 工具專案根目錄的 `AGENTS.md`，用來把 AI 代理人設定成「學習歷程自述教練」。
+這是一份可放入 Antigravity、Codex、Claude code、Opencode 或其他Agentic AI 工具專案根目錄的 `AGENTS.md`，用來把 AI 代理人設定成「學習歷程自述教練」。
 
 它的定位不是代寫工具，而是協助高中生透過多輪對話盤點經驗、整理反思、連結目標校系，最後完成保留個人真實聲音的學習歷程自述。
 
@@ -18,20 +18,20 @@
 
 - 正在準備大學個人申請、推甄或備審資料的高中生。
 - 想協助學生整理學習歷程，但希望保留學生主體性的教師或輔導人員。
-- 想在 Antigravity 專案中建立穩定教練流程的教學者。
+- 想在 Antigravity、Codex、Claude code、Opencode 或其他Agentic AI 工具專案中建立穩定教練流程的教學者。
 
 ## 快速開始
 
 1. 下載或複製本專案。
-2. 在 Google Antigravity 2.0 建立一個新專案。
-3. 將本專案的 `AGENTS.md` 放在 Antigravity 專案資料夾的最外層。
+2. 在 Antigravity、Codex、Claude code、Opencode 或其他Agentic AI 工具建立一個新專案。
+3. 將本專案的 `AGENTS.md` 放在 Antigravity、Codex、Claude code、Opencode 或其他Agentic AI 工具專案資料夾的最外層。
 4. 開啟新的對話，直接用白話描述需求，例如：
    - `我想申請資工系，幫我準備備審資料`
    - `幫我寫學習歷程自述`
    - `我參加過科展，但不知道怎麼寫`
 5. 教練會從經驗盤點開始追問細節，並協助你逐步整理素材。
 
-確認是否生效時，可以在 Antigravity 中問：
+確認是否生效時，可以在 Antigravity、Codex、Claude code、Opencode 或其他Agentic AI 工具中問：
 
 ```text
 你現在的角色是什麼？要遵守哪些規則？
@@ -62,7 +62,7 @@
 
 - [安裝與使用說明](docs/installation-and-usage.md)
 - [對話示範](docs/dialogue-example.md)
-- [原始 PDF：安裝與使用說明](docs/Antigravity-學習歷程教練-安裝與使用說明.pdf)
+- [原始 PDF：安裝與使用說明](docs/學習歷程教練-安裝與使用說明.pdf)
 - [原始 PDF：對話示範](docs/對話示範-學習歷程自述教練.pdf)
 
 ## 專案結構
@@ -74,7 +74,7 @@
 └── docs/
     ├── installation-and-usage.md
     ├── dialogue-example.md
-    ├── Antigravity-學習歷程教練-安裝與使用說明.pdf
+    ├── 學習歷程教練-安裝與使用說明.pdf
     └── 對話示範-學習歷程自述教練.pdf
 ```
 
