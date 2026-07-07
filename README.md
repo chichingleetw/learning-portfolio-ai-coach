@@ -2,7 +2,7 @@
 
 ![學習歷程自述 AI 教練簡介圖](簡介圖.png)
 
-這是一份可放入 Google Antigravity 2.0 專案根目錄的 `AGENTS.md`，用來把 AI 代理人設定成「學習歷程自述教練」。
+這是一份可放入 Antigravity、Codex、Claude Code、OpenCode 或其他 Agentic AI 工具專案根目錄的 `AGENTS.md`，用來把 AI 代理人設定成「學習歷程自述教練」。
 
 它的定位不是代寫工具，而是協助高中生透過多輪對話盤點經驗、整理反思、連結目標校系，最後完成保留個人真實聲音的學習歷程自述。
 
